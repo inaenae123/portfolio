@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.136a0a11.chunk.css",
-    "main.js": "/portfolio/static/js/main.428d10fe.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.428d10fe.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.0b0af909.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0b0af909.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.11829350.chunk.css": "/portfolio/static/css/2.11829350.chunk.css",
-    "static/js/2.1f0d01ba.chunk.js": "/portfolio/static/js/2.1f0d01ba.chunk.js",
-    "static/js/2.1f0d01ba.chunk.js.map": "/portfolio/static/js/2.1f0d01ba.chunk.js.map",
+    "static/js/2.2abebece.chunk.js": "/portfolio/static/js/2.2abebece.chunk.js",
+    "static/js/2.2abebece.chunk.js.map": "/portfolio/static/js/2.2abebece.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.0ad5e5918127c3520af5fdb509092170.js": "/portfolio/precache-manifest.0ad5e5918127c3520af5fdb509092170.js",
+    "precache-manifest.ad9d6f39f345491b2ab29c2395ab2054.js": "/portfolio/precache-manifest.ad9d6f39f345491b2ab29c2395ab2054.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/portfolio/static/css/2.11829350.chunk.css.map",
     "static/css/main.136a0a11.chunk.css.map": "/portfolio/static/css/main.136a0a11.chunk.css.map",
-    "static/js/2.1f0d01ba.chunk.js.LICENSE.txt": "/portfolio/static/js/2.1f0d01ba.chunk.js.LICENSE.txt",
+    "static/js/2.2abebece.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2abebece.chunk.js.LICENSE.txt",
     "static/media/About.css": "/portfolio/static/media/AdobeClean-Regular.7b0cdf6e.ttf",
     "static/media/IBM-logo.png": "/portfolio/static/media/IBM-logo.ff5ac0d3.png",
+    "static/media/IMG_1177.JPG": "/portfolio/static/media/IMG_1177.f15b1505.JPG",
     "static/media/callforcode-icon.png": "/portfolio/static/media/callforcode-icon.fe5cf3b1.png",
     "static/media/forever21-icon.png": "/portfolio/static/media/forever21-icon.196a7ebe.png",
     "static/media/picturepearfect-icon.png": "/portfolio/static/media/picturepearfect-icon.ca5a4bfe.png"
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.1f0d01ba.chunk.js",
+    "static/js/2.2abebece.chunk.js",
     "static/css/main.136a0a11.chunk.css",
-    "static/js/main.428d10fe.chunk.js"
+    "static/js/main.0b0af909.chunk.js"
   ]
 }

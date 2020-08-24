@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7f58cd7731da34cc6586299812b5cad",
+    "revision": "a745961936b6fd2d0bdbfcaf0a8b96bc",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "0fa9763bd8881ae0e0e7",
+    "revision": "2948851759724d7d2745",
     "url": "/portfolio/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "df2bddba3bde5057e611",
+    "revision": "73f10d3f2884ee3b2cba",
     "url": "/portfolio/static/css/main.136a0a11.chunk.css"
   },
   {
-    "revision": "0fa9763bd8881ae0e0e7",
-    "url": "/portfolio/static/js/2.1f0d01ba.chunk.js"
+    "revision": "2948851759724d7d2745",
+    "url": "/portfolio/static/js/2.2abebece.chunk.js"
   },
   {
     "revision": "0bf38cf6c0b51ec69d7a52e8875a6dbf",
-    "url": "/portfolio/static/js/2.1f0d01ba.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.2abebece.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df2bddba3bde5057e611",
-    "url": "/portfolio/static/js/main.428d10fe.chunk.js"
+    "revision": "73f10d3f2884ee3b2cba",
+    "url": "/portfolio/static/js/main.0b0af909.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ff5ac0d36bddac9907055da7de1352a6",
     "url": "/portfolio/static/media/IBM-logo.ff5ac0d3.png"
+  },
+  {
+    "revision": "f15b150549e9e7fc42de1e06ec28d4e6",
+    "url": "/portfolio/static/media/IMG_1177.f15b1505.JPG"
   },
   {
     "revision": "fe5cf3b198346e18a650338cc0b056e6",
