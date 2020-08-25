@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.136a0a11.chunk.css",
-    "main.js": "/portfolio/static/js/main.0b0af909.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0b0af909.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.f3b94df9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f3b94df9.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.11829350.chunk.css": "/portfolio/static/css/2.11829350.chunk.css",
-    "static/js/2.2abebece.chunk.js": "/portfolio/static/js/2.2abebece.chunk.js",
-    "static/js/2.2abebece.chunk.js.map": "/portfolio/static/js/2.2abebece.chunk.js.map",
+    "static/js/2.d98ae1b7.chunk.js": "/portfolio/static/js/2.d98ae1b7.chunk.js",
+    "static/js/2.d98ae1b7.chunk.js.map": "/portfolio/static/js/2.d98ae1b7.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.3d3071b1e3c7fd6329a8bfd1377c7513.js": "/portfolio/precache-manifest.3d3071b1e3c7fd6329a8bfd1377c7513.js",
+    "precache-manifest.eefd566c89bcd943bdead1888d089bdb.js": "/portfolio/precache-manifest.eefd566c89bcd943bdead1888d089bdb.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/portfolio/static/css/2.11829350.chunk.css.map",
     "static/css/main.136a0a11.chunk.css.map": "/portfolio/static/css/main.136a0a11.chunk.css.map",
-    "static/js/2.2abebece.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2abebece.chunk.js.LICENSE.txt",
+    "static/js/2.d98ae1b7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d98ae1b7.chunk.js.LICENSE.txt",
     "static/media/About.css": "/portfolio/static/media/AdobeClean-Regular.7b0cdf6e.ttf",
     "static/media/IBM-logo.png": "/portfolio/static/media/IBM-logo.ff5ac0d3.png",
     "static/media/IMG_1177.JPG": "/portfolio/static/media/IMG_1177.f15b1505.JPG",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.2abebece.chunk.js",
+    "static/js/2.d98ae1b7.chunk.js",
     "static/css/main.136a0a11.chunk.css",
-    "static/js/main.0b0af909.chunk.js"
+    "static/js/main.f3b94df9.chunk.js"
   ]
 }
