@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b2cf53ad.chunk.css",
+    "main.css": "/portfolio/static/css/main.fa081c3a.chunk.css",
     "main.js": "/portfolio/static/js/main.ade3d4fe.chunk.js",
     "main.js.map": "/portfolio/static/js/main.ade3d4fe.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
@@ -9,10 +9,10 @@
     "static/js/2.9ca92f61.chunk.js": "/portfolio/static/js/2.9ca92f61.chunk.js",
     "static/js/2.9ca92f61.chunk.js.map": "/portfolio/static/js/2.9ca92f61.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.b0d67db1d8dbc2b9f5f3b803aeefe84e.js": "/portfolio/precache-manifest.b0d67db1d8dbc2b9f5f3b803aeefe84e.js",
+    "precache-manifest.c53ed0d25a32978f5024764d4f3af305.js": "/portfolio/precache-manifest.c53ed0d25a32978f5024764d4f3af305.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/portfolio/static/css/2.11829350.chunk.css.map",
-    "static/css/main.b2cf53ad.chunk.css.map": "/portfolio/static/css/main.b2cf53ad.chunk.css.map",
+    "static/css/main.fa081c3a.chunk.css.map": "/portfolio/static/css/main.fa081c3a.chunk.css.map",
     "static/js/2.9ca92f61.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9ca92f61.chunk.js.LICENSE.txt",
     "static/media/About.css": "/portfolio/static/media/AdobeClean-Regular.7b0cdf6e.ttf",
     "static/media/IBM-logo.png": "/portfolio/static/media/IBM-logo.ff5ac0d3.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.9ca92f61.chunk.js",
-    "static/css/main.b2cf53ad.chunk.css",
+    "static/css/main.fa081c3a.chunk.css",
     "static/js/main.ade3d4fe.chunk.js"
   ]
 }
