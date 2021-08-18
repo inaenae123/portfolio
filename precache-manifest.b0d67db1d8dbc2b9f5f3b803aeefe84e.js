@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2f600c58e0f8fde5cc2a56e78d7dca9",
+    "revision": "91c32df368098452ab74a0168db2b7fe",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "c77ede58c61f1c72b953",
+    "revision": "f7dcc646929f7b83508b",
     "url": "/portfolio/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "80f28fd3b0ae29c0c552",
-    "url": "/portfolio/static/css/main.c0d89727.chunk.css"
+    "revision": "5cff145f676c11175cc1",
+    "url": "/portfolio/static/css/main.b2cf53ad.chunk.css"
   },
   {
-    "revision": "c77ede58c61f1c72b953",
-    "url": "/portfolio/static/js/2.d98ae1b7.chunk.js"
+    "revision": "f7dcc646929f7b83508b",
+    "url": "/portfolio/static/js/2.9ca92f61.chunk.js"
   },
   {
-    "revision": "0bf38cf6c0b51ec69d7a52e8875a6dbf",
-    "url": "/portfolio/static/js/2.d98ae1b7.chunk.js.LICENSE.txt"
+    "revision": "5e9b6f5c16b720e8a86875f97734673e",
+    "url": "/portfolio/static/js/2.9ca92f61.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80f28fd3b0ae29c0c552",
-    "url": "/portfolio/static/js/main.6ce76a2c.chunk.js"
+    "revision": "5cff145f676c11175cc1",
+    "url": "/portfolio/static/js/main.ade3d4fe.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -44,11 +44,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/callforcode-icon.fe5cf3b1.png"
   },
   {
+    "revision": "5c6a8a431b68332698b5c625bee09bfc",
+    "url": "/portfolio/static/media/coc-icon.5c6a8a43.png"
+  },
+  {
     "revision": "196a7ebe53150c7f8fb308e1656a9aba",
     "url": "/portfolio/static/media/forever21-icon.196a7ebe.png"
   },
   {
+    "revision": "7582370d69e56381231c017065b42fc5",
+    "url": "/portfolio/static/media/hestia-icon.7582370d.png"
+  },
+  {
     "revision": "ca5a4bfe77a2c95598707a73194de427",
     "url": "/portfolio/static/media/picturepearfect-icon.ca5a4bfe.png"
+  },
+  {
+    "revision": "ae653cee32501abc82b0d963df7d6d25",
+    "url": "/portfolio/static/media/sxmp-logo.ae653cee.png"
   }
 ]);

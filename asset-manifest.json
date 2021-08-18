@@ -1,31 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c0d89727.chunk.css",
-    "main.js": "/portfolio/static/js/main.6ce76a2c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6ce76a2c.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.b2cf53ad.chunk.css",
+    "main.js": "/portfolio/static/js/main.ade3d4fe.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ade3d4fe.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.11829350.chunk.css": "/portfolio/static/css/2.11829350.chunk.css",
-    "static/js/2.d98ae1b7.chunk.js": "/portfolio/static/js/2.d98ae1b7.chunk.js",
-    "static/js/2.d98ae1b7.chunk.js.map": "/portfolio/static/js/2.d98ae1b7.chunk.js.map",
+    "static/js/2.9ca92f61.chunk.js": "/portfolio/static/js/2.9ca92f61.chunk.js",
+    "static/js/2.9ca92f61.chunk.js.map": "/portfolio/static/js/2.9ca92f61.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.3cbe5bccf085066e6fdb7f139c199e46.js": "/portfolio/precache-manifest.3cbe5bccf085066e6fdb7f139c199e46.js",
+    "precache-manifest.b0d67db1d8dbc2b9f5f3b803aeefe84e.js": "/portfolio/precache-manifest.b0d67db1d8dbc2b9f5f3b803aeefe84e.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/portfolio/static/css/2.11829350.chunk.css.map",
-    "static/css/main.c0d89727.chunk.css.map": "/portfolio/static/css/main.c0d89727.chunk.css.map",
-    "static/js/2.d98ae1b7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d98ae1b7.chunk.js.LICENSE.txt",
+    "static/css/main.b2cf53ad.chunk.css.map": "/portfolio/static/css/main.b2cf53ad.chunk.css.map",
+    "static/js/2.9ca92f61.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9ca92f61.chunk.js.LICENSE.txt",
     "static/media/About.css": "/portfolio/static/media/AdobeClean-Regular.7b0cdf6e.ttf",
     "static/media/IBM-logo.png": "/portfolio/static/media/IBM-logo.ff5ac0d3.png",
     "static/media/IMG_1177.JPG": "/portfolio/static/media/IMG_1177.f15b1505.JPG",
     "static/media/callforcode-icon.png": "/portfolio/static/media/callforcode-icon.fe5cf3b1.png",
+    "static/media/coc-icon.png": "/portfolio/static/media/coc-icon.5c6a8a43.png",
     "static/media/forever21-icon.png": "/portfolio/static/media/forever21-icon.196a7ebe.png",
-    "static/media/picturepearfect-icon.png": "/portfolio/static/media/picturepearfect-icon.ca5a4bfe.png"
+    "static/media/hestia-icon.png": "/portfolio/static/media/hestia-icon.7582370d.png",
+    "static/media/picturepearfect-icon.png": "/portfolio/static/media/picturepearfect-icon.ca5a4bfe.png",
+    "static/media/sxmp-logo.png": "/portfolio/static/media/sxmp-logo.ae653cee.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.d98ae1b7.chunk.js",
-    "static/css/main.c0d89727.chunk.css",
-    "static/js/main.6ce76a2c.chunk.js"
+    "static/js/2.9ca92f61.chunk.js",
+    "static/css/main.b2cf53ad.chunk.css",
+    "static/js/main.ade3d4fe.chunk.js"
   ]
 }
